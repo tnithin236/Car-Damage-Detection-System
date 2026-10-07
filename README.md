@@ -1,5 +1,8 @@
 # 🚗 AI Car Damage Detection & Severity Analysis
 
+<img width="1917" height="1021" alt="Screenshot 2026-10-07 205406" src="https://github.com/user-attachments/assets/04462135-f691-435b-8273-0c5afdaf409c" />
+
+
 An AI-powered **car damage detection system** built with **YOLO** and **Streamlit**.
 
 The system analyzes vehicle images to detect visible damage, estimate the **damage severity** and **damaged area**, and generate a downloadable inspection report.
